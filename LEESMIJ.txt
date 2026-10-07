@@ -1,0 +1,9 @@
+Lyfto – bestanden voor de landingspagina
+
+Deze map bevat de eigen afbeeldingen, logo’s, iconen en lettertypen van cro.lyfto.com/afgeprijsde-test. Lettertypelicenties staan erbij.
+De oorspronkelijke websitepaden staan in bestanden-overzicht.json.
+De bestaande externe Framer-afbeeldingen en video’s blijven op Framer.
+
+Nieuwe profielfoto’s
+Geef elke foto de naam van de persoon, bijvoorbeeld rick-tafelsmaak.jpg. JPG, PNG en WebP zijn prima. Lever liefst een scherpe foto van hoofd en schouders aan; ik verzorg uitsnede en formaat.
+Je kunt alle foto’s in één ZIP in de chat aanleveren. De functies kun je als Naam — functie — bedrijf meesturen.
